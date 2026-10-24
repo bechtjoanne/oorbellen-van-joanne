@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "name": "Kleurrijke kralen",
+      "description": "Een speelse combinatie van blauw, groen en goud.",
+      "image": "/images/oorbellen-01.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Purple sparkle",
+      "description": "Opvallende kralen met een warme rode hanger.",
+      "image": "/images/oorbellen-02.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Natural chic",
+      "description": "Natuurlijke vormen met een donkere druppel.",
+      "image": "/images/oorbellen-03.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Color pop",
+      "description": "Groene en rode kralen in een vrolijk ontwerp.",
+      "image": "/images/oorbellen-04.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Red statement",
+      "description": "Rode kralen met een contrasterende hanger.",
+      "image": "/images/oorbellen-05.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Sunny colors",
+      "description": "Kleurrijke oorbellen met zonnige accenten.",
+      "image": "/images/oorbellen-06.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Blue mood",
+      "description": "Diepblauwe kralen en elegante details.",
+      "image": "/images/oorbellen-07.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Midnight sparkle",
+      "description": "Donkere kralen met sprankelende accenten.",
+      "image": "/images/oorbellen-08.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Green glow",
+      "description": "Groene tinten met subtiele gouden details.",
+      "image": "/images/oorbellen-09.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Rainbow drops",
+      "description": "Een kleurrijke mix van speelse kralen.",
+      "image": "/images/oorbellen-10.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Blue statement",
+      "description": "Grote blauwe vormen met warme accenten.",
+      "image": "/images/oorbellen-11.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Amber drops",
+      "description": "Warme amberkleurige hangers.",
+      "image": "/images/oorbellen-12.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Tropical flowers",
+      "description": "Witte bloemen met opvallende groene details.",
+      "image": "/images/oorbellen-13.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Ocean blue",
+      "description": "Turquoise kralen met een blauwe hanger.",
+      "image": "/images/oorbellen-14.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Silver shimmer",
+      "description": "Grijze en zilverkleurige kralen.",
+      "image": "/images/oorbellen-15.jpg",
+      "price": "",
+      "available": true
+    },
+    {
+      "name": "Purple bloom",
+      "description": "Paarse bloemvormige oorbellen.",
+      "image": "/images/oorbellen-16.jpg",
+      "price": "",
+      "available": true
+    }
+  ]
+}

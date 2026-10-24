@@ -1,0 +1,22 @@
+OORBELLEN VAN JOANNE - ONLINE BEHEER
+
+DE WEBSITE LIVE ZETTEN (EENMALIG)
+1. Maak een GitHub-account aan op github.com.
+2. Maak een nieuwe repository aan, bijvoorbeeld oorbellen-van-joanne.
+3. Upload ALLE bestanden uit deze map naar de hoofdmap van die repository. Ook het verborgen bestand .pages.yml (de punt hoort erbij).
+4. Log in op netlify.com, kies Add new project > Import an existing project > GitHub. Selecteer de repository. Publish directory: . (punt). Geen build command. Deploy.
+5. Koppel optioneel een eigen domeinnaam in Netlify Domain management.
+
+BEHEER OP TELEFOON OF COMPUTER
+6. Ga naar https://pagescms.org en meld aan met het GitHub-account dat toegang heeft tot de repository.
+7. Open de repository en kies 'Oorbellen collectie'. Voeg items toe, pas naam, omschrijving, foto, prijs of beschikbaarheid aan en sla op.
+8. Pages CMS bewaart wijzigingen in GitHub; Netlify publiceert de vernieuwde site automatisch na een geslaagde deploy.
+
+BELANGRIJK
+- GitHub en Pages CMS vragen eigen accounts/toestemming. Zonder koppeling is er nog geen online dashboard.
+- Het beheer wordt door GitHub-toegang afgeschermd; deel geen inloggegevens.
+- De foto's in deze demo zijn uitsneden van screenshots. Vervang ze bij voorkeur door originele foto's met toestemming van Joanne.
+- Productnamen en beschikbaarheid zijn voorlopig voorbeeldinformatie: controleer deze voor publicatie.
+- Bij lokaal dubbelklikken op index.html kan de collectie leeg blijven wegens browserbeveiliging; bekijk de site via Netlify of een lokale webserver.
+- Als Pages CMS de lijstvelden niet ondersteunt in de gekozen configuratie, kan catalog.json altijd via GitHub worden aangepast.
+- Er is nog geen betaalfunctie of winkelwagen. Aanvragen verlopen via Instagram.
